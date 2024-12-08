@@ -2,18 +2,18 @@
 in this project we will use the keyboard and mouse with the computer's camera (computer vision) 
 
 
-# Virtual Keyboard and Mouse Project
+## Virtual Keyboard and Mouse Project
 
 project builders : 
-	Metin HASHIMI 22160019042
-	Yavuz Emre Tuncil 21160019032
+	Metin HASHIMI     Number:22160019042
+	Yavuz Emre Tuncil Number:21160019032
 
 
 
-# things to watch out for
-# Do not touch the Tracking module because it makes the mouse detect
+### things to watch out for
+### Do not touch the Tracking module because it makes the mouse detect
 
-# More importantly Verisons of Libraries
+## More importantly Verisons of Libraries
 
     # python 3.8
     # autopy 4.0.0
