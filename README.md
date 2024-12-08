@@ -20,3 +20,13 @@ project builders :
     # PyAutoGUI 0.9.54
     # opencv-contrib-python 4.9.0.80
     # mediapipe 0.8.11
+
+
+
+
+![Ekran görüntüsü 2024-04-20 132714](https://github.com/user-attachments/assets/8f4b9bd3-570a-4df0-9644-3b1a3a886a5a)
+
+
+
+
+
