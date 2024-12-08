@@ -5,7 +5,7 @@ in this project we will use the keyboard and mouse with the computer's camera (c
 ## Virtual Keyboard and Mouse Project
 
 project builders : 
-	Metin HASHIMI     Number:22160019042
+	Metin HASIMI     Number:22160019042
 	Yavuz Emre Tuncil Number:21160019032
 
 
